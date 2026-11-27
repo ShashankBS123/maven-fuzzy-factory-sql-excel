@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900">
+<rect width="1400" height="900" fill="#F3F6FB"/>
+<text x="78" y="65" font-family="Arial,sans-serif" font-size="16" font-weight="700" letter-spacing="2" fill="#59708A">MAVEN FUZZY FACTORY</text>
+<text x="78" y="112" font-family="Arial,sans-serif" font-size="34" font-weight="700" fill="#16283D">E-commerce Sales Analysis</text>
+<text x="1310" y="100" text-anchor="end" font-family="Arial,sans-serif" font-size="15" fill="#59708A">PostgreSQL  +  Excel</text>
+<rect x="78" y="145" width="290" height="120" rx="10" fill="#FFFFFF" stroke="#E2E8F0"/>
+<text x="96" y="183" font-family="Arial,sans-serif" font-size="12" font-weight="700" fill="#64748B">DISTINCT ORDERS</text>
+<text x="96" y="232" font-family="Arial,sans-serif" font-size="23" font-weight="700" fill="#16283D">32,313</text>
+<rect x="394" y="145" width="290" height="120" rx="10" fill="#FFFFFF" stroke="#E2E8F0"/>
+<text x="412" y="183" font-family="Arial,sans-serif" font-size="12" font-weight="700" fill="#64748B">GROSS SALES</text>
+<text x="412" y="232" font-family="Arial,sans-serif" font-size="23" font-weight="700" fill="#16283D">$1,938,509.75</text>
+<rect x="710" y="145" width="290" height="120" rx="10" fill="#FFFFFF" stroke="#E2E8F0"/>
+<text x="728" y="183" font-family="Arial,sans-serif" font-size="12" font-weight="700" fill="#64748B">SALES AFTER REFUNDS</text>
+<text x="728" y="232" font-family="Arial,sans-serif" font-size="23" font-weight="700" fill="#16283D">$1,853,171.06</text>
+<rect x="1026" y="145" width="290" height="120" rx="10" fill="#FFFFFF" stroke="#E2E8F0"/>
+<text x="1044" y="183" font-family="Arial,sans-serif" font-size="12" font-weight="700" fill="#64748B">EST. PROFIT BEFORE REFUNDS</text>
+<text x="1044" y="232" font-family="Arial,sans-serif" font-size="23" font-weight="700" fill="#16283D">$1,216,139.50</text>
+<rect x="70" y="292" width="1260" height="440" rx="10" fill="#FFFFFF" stroke="#E2E8F0"/>
+<text x="100" y="326" font-family="Arial,sans-serif" font-size="19" font-weight="700" fill="#16283D">Monthly Sales and Estimated Profit</text>
+<line x1="90" y1="690.0" x2="1310" y2="690.0" stroke="#E8EDF3" stroke-width="1"/>
+<text x="75" y="695.0" text-anchor="end" font-family="Arial,sans-serif" font-size="12" fill="#64748B">$0K</text>
+<line x1="90" y1="600.0" x2="1310" y2="600.0" stroke="#E8EDF3" stroke-width="1"/>
+<text x="75" y="605.0" text-anchor="end" font-family="Arial,sans-serif" font-size="12" fill="#64748B">$40K</text>
+<line x1="90" y1="510.0" x2="1310" y2="510.0" stroke="#E8EDF3" stroke-width="1"/>
+<text x="75" y="515.0" text-anchor="end" font-family="Arial,sans-serif" font-size="12" fill="#64748B">$80K</text>
+<line x1="90" y1="420.0" x2="1310" y2="420.0" stroke="#E8EDF3" stroke-width="1"/>
+<text x="75" y="425.0" text-anchor="end" font-family="Arial,sans-serif" font-size="12" fill="#64748B">$120K</text>
+<line x1="90" y1="330.0" x2="1310" y2="330.0" stroke="#E8EDF3" stroke-width="1"/>
+<text x="75" y="335.0" text-anchor="end" font-family="Arial,sans-serif" font-size="12" fill="#64748B">$160K</text>
+<polyline points="90.0,683.3 123.9,678.9 157.8,677.9 191.7,674.3 225.6,671.0 259.4,664.4 293.3,657.7 327.2,648.3 361.1,620.5 395.0,633.1 428.9,645.1 462.8,630.3 496.7,645.2 530.6,625.7 564.4,623.9 598.3,621.3 632.2,619.9 666.1,619.4 700.0,616.4 733.9,604.0 767.8,585.1 801.7,558.9 835.6,562.7 869.4,541.5 903.3,536.6 937.2,512.9 971.1,489.9 1005.0,509.9 1038.9,502.6 1072.8,499.4 1106.7,482.5 1140.6,456.2 1174.4,401.6 1208.3,364.1 1242.2,392.5 1276.1,399.3 1310.0,512.4" fill="none" stroke="#3D83C6" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="90.0,685.9 123.9,683.2 157.8,682.6 191.7,680.4 225.6,678.4 259.4,674.4 293.3,670.3 327.2,664.5 361.1,647.6 395.0,655.3 428.9,662.5 462.8,653.3 496.7,662.6 530.6,650.6 564.4,649.5 598.3,647.9 632.2,647.1 666.1,646.7 700.0,644.9 733.9,637.2 767.8,625.6 801.7,608.6 835.6,610.4 869.4,596.0 903.3,593.1 937.2,578.1 971.1,563.6 1005.0,576.1 1038.9,571.7 1072.8,569.4 1106.7,558.8 1140.6,542.1 1174.4,507.8 1208.3,483.3 1242.2,501.2 1276.1,505.5 1310.0,577.4" fill="none" stroke="#EA7A3C" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="95" y1="350" x2="125" y2="350" stroke="#3D83C6" stroke-width="4"/><text x="135" y="355" font-family="Arial,sans-serif" font-size="13" fill="#475569">Gross Sales USD</text>
+<line x1="300" y1="350" x2="330" y2="350" stroke="#EA7A3C" stroke-width="4"/><text x="340" y="355" font-family="Arial,sans-serif" font-size="13" fill="#475569">Estimated Profit USD</text>
+<text x="90.0" y="715" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#64748B">Mar 2012</text>
+<text x="191.7" y="715" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#64748B">Jun 2012</text>
+<text x="293.3" y="715" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#64748B">Sep 2012</text>
+<text x="395.0" y="715" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#64748B">Dec 2012</text>
+<text x="496.7" y="715" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#64748B">Mar 2013</text>
+<text x="598.3" y="715" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#64748B">Jun 2013</text>
+<text x="700.0" y="715" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#64748B">Sep 2013</text>
+<text x="801.7" y="715" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#64748B">Dec 2013</text>
+<text x="903.3" y="715" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#64748B">Mar 2014</text>
+<text x="1005.0" y="715" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#64748B">Jun 2014</text>
+<text x="1106.7" y="715" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#64748B">Sep 2014</text>
+<text x="1208.3" y="715" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#64748B">Dec 2014</text>
+<text x="1310.0" y="715" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#64748B">Mar 2015</text>
+<text x="78" y="785" font-family="Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="1" fill="#59708A">KEY FINDINGS</text>
+<text x="78" y="820" font-family="Arial,sans-serif" font-size="15" fill="#16283D">Top product: The Original Mr. Fuzzy  ·  Peak month: Dec 2014  ·  Refunds: $85,338.69</text>
+<text x="78" y="858" font-family="Arial,sans-serif" font-size="12" fill="#64748B">Estimated profit margin is before refunds. Data source: Maven Analytics Toy Store E-Commerce Database.</text>
+</svg>
